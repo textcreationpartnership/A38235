@@ -1,0 +1,183 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Eight resolutions to eight queries lately proposed to seduce all true lovers of their country and Parliaments, and conscientious souldiers in the Army</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1647</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 19 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A38235</idno>
+            <idno type="STC">Wing E261</idno>
+            <idno type="STC">ESTC R24950</idno>
+            <idno type="EEBO-CITATION">08701372</idno>
+            <idno type="OCLC">ocm 08701372</idno>
+            <idno type="VID">41581</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A38235)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 41581)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1258:28)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Eight resolutions to eight queries lately proposed to seduce all true lovers of their country and Parliaments, and conscientious souldiers in the Army</title>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[S.l. :</pubPlace>
+                  <date>1647?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Reproduction of original in the Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Great Britain --  Politics and government --  1642-1649.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-07</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-08</date>
+            <label>Geremy Carnes</label>Sampled and proofread</change>
+         <change>
+            <date>2012-08</date>
+            <label>Geremy Carnes</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:41581:1"/>
+            <pb n="1" facs="tcp:41581:1" rendition="simple:additions"/>
+            <head>EIGHT RESOLUTIONS TO EIGHT QUERIES LATELY Propoſed to ſeduce all true lovers of their Country and Parliaments, and conſcientious Souldiers in the ARMY.</head>
+            <div n="1" type="resolution">
+               <head>Reſolved upon the firſt queſtion.</head>
+               <p>THat it is very unlikely, that <hi>a whole well-minded and well-meaning Army</hi> ſhould after ſo long experience, bee ſo far deluded as to carry on the ambitious or pernitious deſignes of any. That it is arro<g ref="char:EOLhyphen"/>gancy or weakeneſſe to ſuſpect the Souldiers of ſo much ignorance: and hardly honeſt or charitable to ſuſpect any of their Commanders either of ambitious or pernitious deſignes, of whoſe pietie and publick vertue, the whole Land hath ſo eminent teſtimony: That all who have religious and ſpecious pretences in their mouths, have not the like reall intentions in their hearts, is manifeſt in the Queriſt, who vents his own gall againſt the Army, by comparing them with <hi>Ha<g ref="char:EOLhyphen"/>zael,</hi> and the <hi>Anabaptiſts of Germany,</hi> though his own conſcience and their Letters, Declarations, and Actions, cannot but acquit them of any evill intentions: but that all appearance of Religion is to be ſu<g ref="char:EOLhyphen"/>ſpected of Hypocriſie: ſhews little conſcience or integrity in the
+<pb n="2" facs="tcp:41581:2"/> ſuſpector: and if there be any reality, actions doubtleſſe are the beſt demonſtrations: ſtopping the mouths of all gain-ſayers, except ſuch <hi>Rabſhekahs,</hi> whoſe corrupt intereſts bindes them to raile againſt In<g ref="char:EOLhyphen"/>nocency it ſelf.</p>
+            </div>
+            <div n="2" type="resolution">
+               <head>Reſolved upon the ſecond Queſtion.</head>
+               <p>That when an Army, dutifull and meritorious (above example) which the envious Queriſt omitted) finde themſelves (after all their faithfull ſervices) extreamely neglected in ſundry reſpects, frequent<g ref="char:EOLhyphen"/>ly ſleighted and reproached: upbraided of baſeneſſe, and cowardiſe in open Parliament; after that, cenſured, and publiquely declared Enemies to the State: when they had ſeen divers of the Army ad<g ref="char:EOLhyphen"/>judged to death, for things done as Souldiers in ſervice of the Parlia<g ref="char:EOLhyphen"/>ment: And in this evill conjunction and malevolent influence of all Authority, both Parliamentary and elſewhere, againſt them, being Voted to disband. it behoved them to renumerate for what end they had taken up Armes; to conſider whether the people injoyed their Liberties, or that themſelves ſhould be in ſafety when disbanded; it behoved them to conſider, whether thoſe Voted them down, that Voted them up; and into whoſe hands they were required to deli<g ref="char:EOLhyphen"/>ver their Sword? Whether they were likely to preſerve them or de<g ref="char:EOLhyphen"/>ſtroy them with it, and finding their danger eminent, and the peo<g ref="char:EOLhyphen"/>ple yet in bondage; they had dealt like mad men, to have given the Sword into thoſe mad mens hands, who before they had it, abuſed both Army and people in a moſt violent and deſperate manner; and the caſe being plainly and manifeſtly thus: The Souldiers are to be juſtifyed in over-ruling their own Generall, and Officers, in ſeazing the King, the Commiſſioners attending him, and removing them, as ſeemed beſt to their honeſt purpoſes, though without the Parliaments privity.</p>
+               <p>As <hi>for thoſe high affronts of their priviledges and power, indeavours to over-awe; <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>f not to force the Parliament</hi> (with the like fawning ag<g ref="char:EOLhyphen"/>gravations of the Queriſt) following in this queſtion: Beleeve it, Parliaments, and all other Authorities in the world muſt be taught new Leſſons, they muſt not pr<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſume as they have ſeemed to doe, that they are choſen into Authority as into an inheritance of their own, wherein they may play the ſpend thrif<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s, and abuſe their Families
+<pb n="3" facs="tcp:41581:2"/> without controle: but they muſt know Authority is a truſt, for the good of thoſe that truſt, nor muſt they think to blind mens eyes with old Knaves tales and traditions; That the people cannot, nor ought to judge of their owne ſafety or freedome; all forſooth is referred to them, and the people muſt be content with their carving, with their interpretation, if the people cry out for bread, for freedome, and they give them a ſtone, and Vote that ſtone to be bread, why the people muſt not ſay it is a ſtone: if the people cry out for fiſh, for redreſſe of the moſt groſſe and palpable grievances: and they give them a Scorpion, and Vote that that Scorpion is a Fiſh, if any be ſo bold as to ſay it is a Scorpion; then to the <hi>Fleet,</hi> to <hi>Bridewell,</hi> to <hi>Newgate, New-priſon, or Tower</hi> with ſuch factious, ſeditious perſons, away with all ſuch out of all Offices, and employments: its not fit ſuch fel<g ref="char:EOLhyphen"/>lows ſhould live, that dare preſume to reply upon Parliaments: theſe were the miſchiefes we were fallen into, and thus the Court Doctrines are turned Parliamentary, and defended by this moſt re<g ref="char:EOLhyphen"/>verend Father of deluſion, this Queriſt: but he and his Patrons will in ſhort time ſee that honeſty is the beſt policy, and that all this twi<g ref="char:EOLhyphen"/>ſting together of corrupt policy, is indeed but ſpinning of Hempe for the uſe of the owners thereof.</p>
+            </div>
+            <div n="3" type="resolution">
+               <head>Reſolved upon the third queſtion.</head>
+               <p>That although <hi>Jack Cade,</hi> nor <hi>Jermine, Piercie, Goring,</hi> or the King (Sir you'le remember with whom you rank his Majeſty one day) or any other might not at any time, offer any enforcement upon Par<g ref="char:EOLhyphen"/>liaments in things that were manifeſtly unjuſt, as the Queriſt taketh for granted: it will not follow, but that as Parliaments may turne tyrants, even ſo as tyrants they may lawfully be proceeded againſt, as lawfully as Parliaments may proſecute tyranny in whomſoever: And whatever this learned Queriſt would have the world beleeve, Ty<g ref="char:EOLhyphen"/>ranny is not ſo difficult a thing to be judged of, but that it is more vi<g ref="char:EOLhyphen"/>ſible to be ſeen, than his Foxes eare through his ſheeps skin, and that you'le ſay is viſible enough, Sir their unjuſt actings no more condemn the juſt proceedings of the Army, then their juſt actings juſtifie the unjuſt proceedings of thoſe ye mention.</p>
+            </div>
+            <div n="4" type="resolution">
+               <pb n="4" facs="tcp:41581:3"/>
+               <head>Reſolved upon the fourth queſtion.</head>
+               <p>That the Queriſt miſtakes the Army to be ſick of his diſeaſe, and ſo propoſes the disbanding of the Army for their cure.</p>
+               <p>Indeed its very like it would be an abſolute cure unto him, and to many more that are heart-ſick of his diſeaſe; but all Doctors are not agreed, ſome being of an opinion they muſt undergoe another kinde of cure; as for the Army, God hath hitherto been their true and great Phyſitian, and doubtleſſe they are better ſtabliſhed then to leave his ſaving Counſels, for ſuch <hi>Machivilian</hi> Mountebanks; All your care for <hi>Ireland,</hi> or to prevent broyles at home, or ſpeeding the juſt de<g ref="char:EOLhyphen"/>mands of the Army, and all the affrights you invent for <hi>London,</hi> all your cenſurings of diſobedience, with the reſt done to your Commi<g ref="char:EOLhyphen"/>nation of damnation, is in effect no more but this: <hi>Disband, or wee and our accomplices are in a deſperate condition:</hi> Is not that the meaning? though it be Sir, yet be not ſo deſperate, doe not wound your con<g ref="char:EOLhyphen"/>ſcience more and more; doe not perſiſt to provoke your ſtrong op<g ref="char:EOLhyphen"/>poſers; all your hopes are built upon your deluding the Citizens, by theſe Queries, truely it will not doe; they are generally too wiſe to be wrought upon, by ſuch ſimple Sophiſtry, into a deſperate ingage<g ref="char:EOLhyphen"/>ment againſt ſo faithfull, ſo juſt an Army, that under God hath pre<g ref="char:EOLhyphen"/>ſerved them, their wives, children and families, from utter deſtructi<g ref="char:EOLhyphen"/>on: Be better advized Sir, and truſt yet in God, with him there is mercy, and this his Army are not cruell: Ceaſe to doe farther evill, learn to doe well; Retract your Queries, and make amends for this your ill ſpent time, by doing ſome reall and eminent good for the Common-wealth, bring forth fruites worthy of Repentance, and you will yet finde comfort in the day of your Viſitation.</p>
+            </div>
+            <div n="5" type="resolution">
+               <head>Reſolved upon the fifth Queſtion.</head>
+               <p>That it is not as the Queriſt ſuppoſeth, that becauſe the Army have their ſwords in their hands, therefore they are unjuſt and not to be truſted; Some perſons in all ſtates muſt have the ſword, and it is happy when wiſe and good men get it, admit the Major vote of Par<g ref="char:EOLhyphen"/>liament now had it, were it ſafe for the People except they had ano<g ref="char:EOLhyphen"/>ther Armed force to ballance them? truly it may be ſo, and may be
+<pb n="5" facs="tcp:41581:3"/> happy for the People they have it not; this is certaine, thoſe mem<g ref="char:EOLhyphen"/>bers of Parliament that firſt raiſed this Army are really of that opi<g ref="char:EOLhyphen"/>nion, and rejoyce that the Army refuſe to disband, as ſeeing them<g ref="char:EOLhyphen"/>ſelves, the Army, and all the well affected in the land utterly inſla<g ref="char:EOLhyphen"/>ved or deſtroyed, if it were otherwiſe: have patience for a little while, and you ſhall ſee the Army will willingly disband, they have but a little work to do, and they have don, and all your wire-drawne ſuggeſtions will come to nothing, your jealouſies will vaniſh, in the meane time you might do well to give the Army a viſit, beleeve it, the ayre of it might do you abundance of good, Nay its a conver<g ref="char:EOLhyphen"/>ting Army, thoſe chaplin Officers and Souldiers, though they have not ſo compleat Antimagiſteriall principles as your ſelfe and others of your tribe, yet they have others that are far better, and of which you have a great deal more need of: Why they have converted whole Countries, no place where they come but rejoyce in their ſociety, they are ſo full of God, and ſo full of all kinde of goodnes, thoſe only are jealous of them that have not known their converſation, certain<g ref="char:EOLhyphen"/>ly were you amongſt them, theſe old wormeaten threedbare aſperſi<g ref="char:EOLhyphen"/>ons of German Anabaptiſts, which the Romaniſts twit the Com<g ref="char:EOLhyphen"/>mon Proteſtant withall, and they the Puritan, or Presbyter, and the Presbyter the Sectaries, all theſe toyes would ſoone be purged out of you, and you would become wholy new inſide and outſide, you would admire the true Chriſtian love and unity that is amongſt them, impoſſible to be diſunited: Whats now your griefe, through the indiſpoſition of your mind, would then be your rejoycing, therefore ceaſe this Jugling, and amongſt them quickly, and all old ſcores will ſoone be forgotten.</p>
+            </div>
+            <div n="6" type="resolution">
+               <head>Reſolved upon the ſixth Queſtion.</head>
+               <p>That the Queriſt perſiſts either to trouble his head with falſe phan<g ref="char:EOLhyphen"/>taſtick feares which tranſport his underſtanding, or elſe he willful<g ref="char:EOLhyphen"/>ly ſuppoſeth in this Querie (to deceive the Reader) what the Ar<g ref="char:EOLhyphen"/>my are not troubled at, for admit any of their friends in the Houſe have been unduly elected, have they ſaid they have not, or have they don any thing to continue them there? no, and it were time enough for an honeſt man to tell them and the world of it when he ſees it: for by this vile liberty of ſuppoſition, a cunning Sophiſter hath too
+<pb n="6" facs="tcp:41581:4"/> great an advantage to abuſe the moſt guiltleſſe people in the world, If they have don ſuch things (as he concluſively queries to their ex<g ref="char:EOLhyphen"/>tream diſcouragement) why doth hee not put them into away of ac<g ref="char:EOLhyphen"/>cuſation and tryall, and ſo do the publike ſome honeſt ſervice: for this is moſt unworthy, and ſavours more then of common malice.</p>
+               <p>Your ſuppoſition alſo concerning Mr. <hi>Peters</hi> ſhewes, you hunt all corners for matter to pleaſe and humor a ſeduced party, pray Sir doth not every mans underſtanding give him, That <hi>Cornwall</hi> and <hi>Wales</hi> are as likely, or more likely to make undue elections then any other parts of this Nation; you might very well have ſpared Maſter <hi>Peters</hi> name in this as in your other conceit, of his getting more by the Wars then any two Presbyterian Miniſters, you meane happily, more trouble, paines and ſickneſſe, and therein you are right, but if you mean wealth, ſure you will not ſay he hath gotten more than two ſuch as Doctor <hi>Burges:</hi> and yet in the fit you were in when you indited theſe Queries, you might be pardoned for ſaying any thing, being in the heat of blood, you ſhall have your book for this, but be<g ref="char:EOLhyphen"/>ware the next offence may coſt you deare: you do ill ſervice to your friends in touching upon this ſtring, it makes men to ſeriouſly caſt their eyes upon the Aſſembly of Divines, of whom, ſtrange things are daily told at the Committee, for the diſpoſe of Benefices (com<g ref="char:EOLhyphen"/>monly called the Committee for plundered Miniſters) you ſay you heare of no complaint or Petitions againſt the unjuſtneſſe of electi<g ref="char:EOLhyphen"/>ons in <hi>Cornewall</hi> or <hi>Wales<g ref="char:punc">▪</g>
+                  </hi> and now ag<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>i<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e you wrong your partie, thus to occaſion the people to look back upon their dealing in the Houſe with Petitioners, and Petitions, to ſay no mo<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e: there hath been ſad work about Petitions, ſuch as <hi>England</hi> nor any other Nation never heard of, which ſhewes the tyran<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>y of Parliaments to be the worſt of any: and yet you ſeeme to be gr<gap reason="illegible" resp="#MURP" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ved that there are any in the Houſe, or out of the Houſe, that do oppoſe them, doubtleſſe you have a ſhare amongſt them, and it were pitty but you ſhould ſtill ſhare, and ſpeed as they do that are ſo well pleaſed with their doings.</p>
+            </div>
+            <div n="7" type="resolution">
+               <head>Reſolved upon the ſeventh Queſtion.</head>
+               <p>That if the Independent party or any of them are guilty of thoſe evills (by the queriſt hear againe ſuggeſted) neither the Army nor a<g ref="char:EOLhyphen"/>ny others, do deſire they ſhould be acquitted, but that they ſhould ſuffer according to their demerit, nor do the Writings, or Declarati<g ref="char:EOLhyphen"/>ons of the Army, in the leaſt pretend, to protect them or any in their
+<pb n="7" facs="tcp:41581:4"/> evill doings: but ſtill this way of quaere or ſuppoſition, is a moſt un<g ref="char:EOLhyphen"/>godly way of aſperſion reflecting upon all, when happily few or none are guilty.</p>
+               <p>As for the Armies liſting and recruite, therein they have don no<g ref="char:EOLhyphen"/>thing but what was lawfull for them to do, and ſutable to the worke they intend, which is to defend themſelves, and thoſe they have hi<g ref="char:EOLhyphen"/>ther to preſerved, from the violent oppreſſion of evill and wicked men: and not as you ſuppoſe to carry on ſome deſperate and de<g ref="char:EOLhyphen"/>ſtructive deſignes in <hi>England:</hi> No Sir, the moſt deſperat and deſtru<g ref="char:EOLhyphen"/>ctive deſigne in <hi>England</hi> is to bring in the Scots and foraigne forces, wherein you and yours are the deſigners, and not the Army. And you that in this Q<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ere are ſo provident in ſaving of charges, did not when time was, ſhew your ſelves ſo thrifty towards your deare bretheren; to them you were liberall enough and could be content to afford them much more, might you have had your wills, when as this Army in your eſteem is ſcarce worthy of Bread: all things grow deare forſooth if they come neare you, and the poore faile not to be put in mind of it by your impious diſſembling care: When at other times they muſt hang or ſtarve whilſt you ruffle and flouriſh up and downe in your bravery, and fare delitiouſly every day; for ſhame leave this groſſe partialitie and diſſimulation, or you will mar your credit and ſpoyle your trade, you'l not be able at this rate to deceive once a week: this overdoing will make every man beware of you, you will ere long be enforced, though much againſt your nature, to live by honeſt courſes.</p>
+            </div>
+            <div n="8" type="resolution">
+               <head>Reſolved upon the eight Queſtion.</head>
+               <p>That if the Armies late proceedings had been qualified with their disbanding it had gone ill with all the honeſt wel-affected partie in the Kingdome: their obedience to ſo deſtructive commands, had been a ſin equall to ſelfe deſtroying, no doubt they might as well de<g ref="char:EOLhyphen"/>ſtroy all the honeſt partie in Parliament, City, and Kingdome, as to give up their ſword to thoſe they evidently ſaw would deſtroy them: and if they had done it, they had then indeed with a bleeding witnes, eclipſed and nullified all their former merits, glory, and eſteeme in the eyes of all the world, and drawne perpetuall ſcandall upon the profeſſion of Religion, as if Religion were a beſotting of mankind to a ſubjection unto Tyrany and opreſſion, if cloaked with the name of Authority, when as the voyce of true Religion declareth after this
+<pb n="8" facs="tcp:41581:5"/> manner if thou doſt wel feare not, if thou doſt evill then feare, ſtrong<g ref="char:EOLhyphen"/>ly implying, that all authority that is juſt is for the puniſhment of evill doers, ſuch as really hurt their neighbours, and for the praiſe of thoſe that do well: otherwiſe the Magiſtrate beareth the ſword not only in vaine but to evill purpoſe, the authority that is of God muſt be evidently ſe<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>n by its goodneſſe, that which is of the Devill by its badneſſe, cruelty, and injuſtice, now indeed there are a ſort of men that when they get Authority into their hands call evill good, and good evill, and accordingly exerciſe the ſame, for the ſuppreſſion of thoſe that doe honeſtly, and live quietly, and to the praiſe and incou<g ref="char:EOLhyphen"/>ragement of a ſort of baſe informers, that vex and moleſt their neigh<g ref="char:EOLhyphen"/>bors without any juſt cauſe, that countenance all kinde of injuſtice, cruelty, and oppreſſion: That betray their truſt, violate the liberties of the people and pervert the ends even of Parliaments themſelves, but let them remember, <hi>he that ſits in heaven, laughs them to ſcorne,</hi> and that for all theſe things they muſt come to Judgement, and then vain will be the help of man, all the art and ſophiſtry in the world will be then to little purpoſe, and then what would they, (ſuch ſicophants as you are) give for a good conſcience, that might undauntedly appeare before the righteous, Judge of all the earth, beleeve it Sir, you are exceedingly tranſported with an evill underſtanding, or an evill Conſcience, and you had need conſider things more ſeriouſly then you have done, aſſure your ſelfe God expects another accompt of thoſe parts and abilities of yours: the expence of them thus, is not to his glory, nor his peoples good, therefore look to it in time, and ſpend the remainder of your houres to better purpoſe: you ſee all your labour beſtowed in your queries are to your owne and your parties preju<g ref="char:EOLhyphen"/>dice, miniſtring occaſion to a more cleare openning of your deluſion, whereby the people you would deceive, become more ſtrongly ar<g ref="char:EOLhyphen"/>med againſt your deceit, and when you think you have them, they are either not for you or againſt you, beleeve it, it is a very tedious thing to maintain Injuſtice, to propoſe to live by a corrupt profeſſion, a man were better never be borne, or beg his bread; it is impoſſible you can have any comfort in it, waking you have nothing but feare, ſleeping you have no reſt, and in death you will find nothing but hor<g ref="char:EOLhyphen"/>ror: make you therefore the ninth <hi>Reſolution:</hi> and be reſolved to <hi>turne unto the Lord with all your heart, and to forſake the wayes of malicious and froward men.</hi>
+               </p>
+            </div>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
